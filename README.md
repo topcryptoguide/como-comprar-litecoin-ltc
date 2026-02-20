@@ -1,1 +1,3 @@
-# como-comprar-litecoin-ltc
+[**Cómo comprar Litecoin (LTC)**](https://topcryptoguide.com/como-comprar-litecoin-ltc/)
+
+Este artículo explica **cómo comprar Litecoin (LTC)**, una de las criptomonedas más antiguas y populares, creada como una versión más rápida y liviana de Bitcoin para pagos y transferencias con comisiones bajas. Para adquirir LTC normalmente debes **crear una cuenta en un exchange confiable que lo liste** (por ejemplo Binance, Coinbase, Kraken o KuCoin), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar LTC directamente con tarjeta de crédito/débito**. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
